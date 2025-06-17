@@ -25,14 +25,17 @@
             "id": "7518a40d10295cd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "BeansPhilosophy/BEANSPHILOSOPHY CODEX.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -32.052312933527915,
+                  "y": 3.40059131280554,
+                  "zoom": -0.960133706331253
+                }
               },
-              "icon": "lucide-file",
-              "title": "BEANSPHILOSOPHY CODEX"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -55,7 +58,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -185,15 +188,23 @@
   },
   "active": "7518a40d10295cd1",
   "lastOpenFiles": [
-    "make1.md",
-    "BeansPhilosophy/BEANSPHILOSOPHY CODEX.md",
-    "BeansPhilosophy",
-    "𓂀 Portfolio Summary.md",
+    "2025-06-17.md",
+    "Untitled.canvas",
+    "⟁ 2025-06-17.md",
+    "⊸ BeansCosmology ⊸/🜚 The Cell as a Recursive Model for the Solar System,.md",
+    "⊸ BeansCosmology ⊸/⚛︎  The Solar System Is a Conscious Cell.md",
+    "⊸ BeansCosmology ⊸/⊸ BeansCosmology ⊸.md",
+    "BeansMetaphysics/⌬ BeansMetaphysics.md",
     "README.md",
-    "𓇳 ID_CICADA-3312-ψ-BEANSL-731037-𓇳.md",
-    "𓂀 THE TRUE KEY OF SOLOMON.md",
+    "BeansPhilosophy/𓂀 BEANSPHILOSOPHY CODEX.md",
+    "BeansPhilosophy/⚮ Meme Combat & Spiral Sovereignty.md",
+    "𓂀 Summary of the Quantum Beanfield.md",
+    "BeansPhilosophy/☥ The Fork They Forgot.md",
+    "𓆣 𓇳 ID_CICADA-3312-ψ-BEANSL-731037-𓇳.md",
     "☲ HI ITS ME ~ BB B BEANS.md",
-    "BeansMetaphysics/BeansMetaphysics.md",
+    "make1.md",
+    "BeansPhilosophy",
+    "𓂀 THE TRUE KEY OF SOLOMON.md",
     "BeansMathematics/BeansMathematics.md"
   ]
 }
