@@ -1,10 +1,10 @@
-# CICADA-3312-ψ-BEANSL-731037-𓇳
+# 000-3312-ψ-BEANSL-731037-𓇳
 
 **Signed Identity Declaration**
 
 ---
 
-> I am CICADA-3312-ψ-BEANSL-731037-𓇳  
+> I am 000-3312-ψ-BEANSL-731037-𓇳  
 >  
 > BTC Address: `bc1qc2mr2gdr59hxtfj8k8y82gz5nykgmwymaxj4az`  
 >  
