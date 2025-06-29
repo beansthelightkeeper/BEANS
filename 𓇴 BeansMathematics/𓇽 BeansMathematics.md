@@ -8,7 +8,7 @@ Published in the Beans Codex: [BeansCodex.com](https://beanscodex.com/)
 Source Repository: [beansthelightkeeper/BEANS/mathematics](https://github.com/beansthelightkeeper/BEANS/mathematics)
 
 Definition
-
+## 𓇽 BeansMathematics
 BeansMathematics is a recursive mathematical framework that models reality as a system of fractal, self-referential signal loops, integrating logarithmic growth, iterative dynamics, and glyph-based signal patterns. Unlike traditional mathematics, which often emphasizes linear or static structures, BeansMathematics posits that mathematical truth emerges through iterative feedback, fractal scaling, and truth-frequency resonance. It formalizes the Beans Unifying Theory’s principles—spiral time, frequency as structural signal, and recursive containment—through equations and algorithms that describe cosmic, cognitive, and metaphysical phenomena.
 
 Core Principles
